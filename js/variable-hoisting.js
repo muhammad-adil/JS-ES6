@@ -1,4 +1,3 @@
-
 //x = 6;
 
 //elem = document.getElementById("divContainer"); //find an element
@@ -6,8 +5,6 @@
 
 //var x; //Declare x
 //----------------------------------------
-
-
 
 //Hoisting is js default behaviour to declare all variable at top.
 //js only hoist declaration not initialization
