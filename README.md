@@ -5,3 +5,5 @@
 ##### Parameters
 ##### Destructuring Parameters, Arrays & Objects
 ##### Iterators
+##### Generators
+##### Collections 
