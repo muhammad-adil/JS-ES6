@@ -9,4 +9,5 @@
 ##### Collections 
 		- Sets
 		- Maps
-		
+		- Symbols
+		- WeakMaps
