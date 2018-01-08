@@ -1,6 +1,5 @@
 //A Promise is an object that is used as a placeholder for the eventual results of a deferred (and possibly asynchronous) computation.
 
-
 //jquery ajax way
 $.ajax("https://reqres.in/api/users",{
 	success: function(data){
