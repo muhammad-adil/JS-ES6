@@ -1,4 +1,4 @@
-
+//A Promise is an object that is used as a placeholder for the eventual results of a deferred (and possibly asynchronous) computation.
 
 
 //jquery ajax way
