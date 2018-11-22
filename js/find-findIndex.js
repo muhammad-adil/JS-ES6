@@ -27,3 +27,8 @@ function firstFindIndexFunction(value, index, array) {
   return value > 18;
 }
 console.log("First number over 20 has index " + firstFindIndex);
+
+// function takes 3 arguments:
+//     The item value
+//     The item index
+//     The array itself
